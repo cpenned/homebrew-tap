@@ -1,6 +1,6 @@
 cask "clawdagotchi" do
-  version "1.6.3"
-  sha256 "a52f8b255046c8e5d70cd4fdeb8188d3ee0caf7afa8386a32850e3ad665d6c1e"
+  version "1.7.0"
+  sha256 "bc5cf781eac56231fd5c69bc45cd698e0968ef6075c3c1301abf1fc6c81354a8"
 
   url "https://github.com/cpenned/clawdagotchi/releases/download/v#{version}/Clawdagotchi-#{version}.dmg"
   name "Clawdagotchi"
